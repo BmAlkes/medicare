@@ -3,7 +3,7 @@ import Home from '../pages/Home'
 import Doctors from '../pages/Doctors'
 import DoctorsDetails from '../pages/Doctors/DoctorDeitails'
 import Login from '../pages/Login'
-import SignUp from '../pages/SignUp'
+import SignUp from '../pages/Signup'
 import Contact from '../pages/Contact'
 import Services from '../pages/Services'
 
