@@ -10,15 +10,15 @@ import { Link } from "react-router-dom";
 
 const socialLinks = [
   {
-    path: "https://www.linkedin.com/company/differeacting/",
+    path: "https://www.linkedin.com/company/dotvizion/",
     icon: <AiFillLinkedin className="group-hover:text-white w-4 h-5" />,
   },
   {
-    path: "https://www.instagram.com/differeacting/",
+    path: "https://www.instagram.com/dotvizionn/",
     icon: <AiFillInstagram className="group-hover:text-white w-4 h-5" />,
   },
   {
-    path: "https://www.facebook.com/profile.php?id=61558685768773",
+    path: "https://www.facebook.com/profile.php?id=61571532141434",
     icon: <AiFillFacebook className="group-hover:text-white w-4 h-5" />,
   },
 ];
@@ -94,18 +94,18 @@ const Footer = () => {
         <div>
           <img
             src={
-              "https://res.cloudinary.com/landingpage2/image/upload/v1715794760/Logo_Horizontal_C_2_ducktr.png"
+              "https://res.cloudinary.com/landingpage2/image/upload/v1739727604/5000x5000-3-removebg-preview_qvlhb9.webp"
             }
-            alt="logo differeacting"
+            alt="logo dotvizion"
             className="max-w-[250px]"
           />
         </div>
         <div>
-          <p className="text-center">All rights reserved Differeacting</p>
+          <p className="text-center">All rights reserved Dotvizion</p>
           <p className="text-center">
             <span className="text-[#6ecfef] px-2">
               {" "}
-              <a href="https://www.differeacting.com">Differeacting</a>
+              <a href="https://www.dotvizion.com">Dotvizion</a>
             </span>
             Solutions for web applications – © 2023
           </p>
