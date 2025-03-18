@@ -90,7 +90,7 @@ const Footer = () => {
           </div>
         </div>
       </footer>
-      <section className=" container border-t flex md:flex-row flex-col gap-7 items-center justify-between">
+      <section className=" container border-t flex md:flex-row flex-col gap-7 items-center justify-between bg-[#00bdcd] text-black">
         <div>
           <img
             src={
@@ -103,7 +103,7 @@ const Footer = () => {
         <div>
           <p className="text-center">All rights reserved Dotvizion</p>
           <p className="text-center">
-            <span className="text-[#6ecfef] px-2">
+            <span className="text-[#000] px-2">
               {" "}
               <a href="https://www.dotvizion.com">Dotvizion</a>
             </span>
