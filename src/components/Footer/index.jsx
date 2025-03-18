@@ -90,14 +90,14 @@ const Footer = () => {
           </div>
         </div>
       </footer>
-      <section className=" container border-t flex md:flex-row flex-col gap-7 items-center justify-between bg-[#00bdcd] text-black">
+      <section className=" container border-t flex md:flex-row flex-col gap-7 items-center justify-between bg-[#b0eaef] text-black">
         <div>
           <img
             src={
               "https://res.cloudinary.com/landingpage2/image/upload/v1739727604/5000x5000-3-removebg-preview_qvlhb9.webp"
             }
             alt="logo dotvizion"
-            className="max-w-[250px]"
+            className="max-w-[400px]"
           />
         </div>
         <div>
